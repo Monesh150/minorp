@@ -1,5 +1,5 @@
 import React from 'react'
-import './Home.css'
+import './styles.css'
 import Logo from '../assets/logoR.png'
 
 function Home(){
